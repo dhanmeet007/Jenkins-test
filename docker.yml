@@ -4,7 +4,7 @@ version: '1.0'
 steps:
   build-example:
     type: build
-    description: yaml examples
+    description: yaml examplesand purpose
     image-name: codefresh-io/image
     dockerfile: Dockerfile
     tag: latest_docker
