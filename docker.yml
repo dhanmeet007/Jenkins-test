@@ -4,7 +4,7 @@ version: '1.0'
 steps:
   build-example:
     type: build
-    description: yaml examplesand purpose taken place jenkins
+    description: yaml examplesand purpose taken place jenkins dhanmeet
     image-name: codefresh-io/image
     dockerfile: Dockerfile
     tag: latest_docker
